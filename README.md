@@ -23,7 +23,7 @@ SNS, Blog 데이터를 활용해 키워드 및 챗봇 기반의 제주 관광지
 
 ### 🏗️아키텍처
 <p align="center">
-<img src="/asset/Architecture.jpg" width="1000" height="500" >
+<img src="/asset/Architecture.jpg" width="1000" height="400" >
 </p>
 
 <br><hr>
